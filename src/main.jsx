@@ -4,7 +4,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Instructions from './views/Instructions';
 import Questions from './views/Questions';
 import Home from './views/Home';
-import Answer from './views/Answer';
+import Answers from './views/Answers';
 import Thanks from './views/Thanks';
 import Form from './views/Form';
 import './index.css'
@@ -33,7 +33,7 @@ const router = createBrowserRouter([
       },
       {
         path: "respuesta",
-        element: <Answer />,
+        element: <Answers />,
       },
     ]
   },

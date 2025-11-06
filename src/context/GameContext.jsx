@@ -3,7 +3,7 @@ import React, { createContext, useContext, useState } from 'react';
 const GameContext = createContext(undefined);
 
 export function GameProvider({ children }) {
-    const [first, setfirst] = useState(second)
+    const [first, setfirst] = useState(null)
 
     return <GameContext.Provider value={first}>{children}</GameContext.Provider>;
 }
