@@ -5,6 +5,7 @@ function Answers() {
     <div>
       <div><img src="" alt="" /></div>
       <div>
+        <div><img src="" alt="" /></div>
         <div>
           <p>Silicona
             u.V.3 Fresa

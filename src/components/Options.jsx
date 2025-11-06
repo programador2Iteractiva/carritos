@@ -1,8 +1,17 @@
 import React from 'react'
 
-function Options() {
+function Options({ options }) {
   return (
-    <div>Options</div>
+    <div>
+      {
+        options.map(option => {
+          <div>
+            <p>{option}</p>
+          </div>
+        })
+      }
+    </div>
+
   )
 }
 
