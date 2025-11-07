@@ -1,1 +1,138 @@
-{}
+{
+  "limpiezaExterior": [
+    {
+      "question": "¿Cada cuánto lavas tu carro?",
+      "options": ["Cada semana", "Cada 15 días", "Cuando se ve sucio"],
+      "productName": "Shampoo Con cera 2 Litros",
+      "image": "/images/products/106816.png"
+    },
+    {
+      "question": "Cuando lavas tu carro, ¿qué tipo de productos utilizas?",
+      "options": ["Productos especializados para mi carro", "Quiero que me recomiendes", "Necesito algo que pueda usar de forma fácil y rápida"],
+      "productName": "Lavado Ecológico 1 Litro",
+      "image": "/images/products/204682.png"
+    },
+    {
+      "question": "¿Sabías que además del shampoo especializado para lavar tu vehículo, existen distintos productos para que lo hagan lucir como nuevo?",
+      "options": ["Sí, de hecho, vengo a buscar uno.", "Lo sabía, pero no los uso. Recomiendame algo", "Necesito algo que lo haga brillar."],
+      "productName": "Cera Easy Shine 500 ml",
+      "image": "/images/products/209187.png"
+    },
+    {
+      "question": "¿Cuál de estas sensaciones prefieres cuando ves tu carro?",
+      "options": ["Que brille como nuevo", "Que huela bien", "Que se vea limpio y sin polvo"],
+      "productName": "Llantax Intense 524 ml",
+      "image": "/images/products/208890.png"
+    },
+    {
+      "question": "¿Sabías que existen productos para limpiar y proteger las llantas del sol y el agrietamiento?",
+      "options": ["Sí, aunque no sé cómo usarlos", "No, solo las limpio con agua. Necesito que me recomiendes algo."],
+      "productName": "Llantax 500ml",
+      "image": "/images/products/103253.png"
+    },
+    {
+      "question": "¿Te gusta hacer tú mismo el proceso de limpieza extra o prefieres pagar de más en el lavadero?",
+      "options": ["Yo mismo lo hago. Cuando llego a mi casa prefiero retocarlo.", "Me gusta retocar las partes negras."],
+      "productName": "Negro Mágico de Simoniz",
+      "image": "/images/products/negro-magico.png"
+    },
+    {
+      "question": "¿Conoces la diferencia entre un limpiador de vidrios común y uno para autos?",
+      "options": ["Sí, uso el especializado", "No, uso el mismo de casa. Recomiendame algo.", "Solo lo aplico cuando salgo de viaje."],
+      "productName": "Limpiavidrios 2 en 1 350 ml",
+      "image": "/images/products/110291.png"
+    }
+  ],
+  "limpiezaInterior": [
+    {
+      "question": "¿Qué tipo de superficie predomina en el interior de tu carro?",
+      "options": ["Cuero", "Vinilo", "Plástico"],
+      "productName": "Silicona U.V.3 Fresa 300 ml",
+      "image": "/images/products/103264.png"
+    },
+    {
+      "question": "¿Cada cuánto limpias el habitáculo de tu vehículo?",
+      "options": ["Cada semana", "De vez en cuando", "Cuando tengo una cita importante"],
+      "productName": "Espumagic 650 ml",
+      "image": "/images/products/205308.png"
+    },
+    {
+      "question": "¿Te gusta que el interior de tu carro tenga un aroma constante?",
+      "options": ["Sí, siempre uso productos con aroma refrescante", "Prefiero productos para desinfectar", "Por supuesto. Protejo mi carro porque es mi segunda casa"],
+      "productName": "Complete Air System",
+      "image": "/images/products/200251.png"
+    }
+  ],
+  "potenciaMantenimiento": [
+    {
+      "question": "¿Revisas regularmente el nivel de líquido refrigerante?",
+      "options": ["Sí", "De vez en cuando", "Solo cuando salgo de viaje"],
+      "productName": "Refrigerante radiador verde Galon",
+      "image": "/images/products/108187.png"
+    },
+    {
+      "question": "¿Sabes para qué sirve un mejorador de octanaje?",
+      "options": ["Sí, los uso con frecuencia", "No estoy seguro, me gustaría saber de qué se trata."],
+      "productName": "Mejorador de octanaje Qualitor",
+      "image": "/images/products/103356.png"
+    }
+  ],
+  "accesoriosAmbientadores": [
+    {
+      "question": "¿Qué productos para el cuidado interior de tu carro buscas, además de los de limpieza?",
+      "options": ["Eliminador de olores", "Fragancias novedosas", "Que sean fáciles de aplicar"],
+      "productName": "DEO CAR MAJESTIC",
+      "image": "/images/products/210352.png"
+    },
+    {
+      "question": "¿Qué sensación te gustaría tener cada vez que entras a tu carro?",
+      "options": ["Que todo esté limpio y ordenado.", "Que se sienta protegido y bien cuidado.", "Que luzca como recién salido del concesionario."],
+      "productName": "Tapetes S1 RACING TEAM SIMONIZ",
+      "image": "/images/products/tapetes-s1.png"
+    },
+    {
+      "question": "¿Qué accesorio utilizas para proteger tu carro del sol y el polvo?",
+      "options": ["Un cubreautos.", "Una sábana de mi casa, pero quiero que me recomiendes algo."],
+      "productName": "Cubreautos MÁSTER SIMONIZ",
+      "image": "/images/products/cubreautos-master.png"
+    },
+    {
+      "question": "Si tu carro tuviera un aroma ideal, ¿cómo te gustaría que fuera?",
+      "options": ["Fresco y deportivo.", "Elegante y sofisticado.", "Suave y relajante."],
+      "productName": "Deo Car GLAMOUR",
+      "image": "/images/products/deo-car-glamour.png"
+    }
+  ],
+  "motoBici": [
+    {
+      "question": "¿Qué aroma te gustaría sentir cuando te pongas el casco de tu Moto?",
+      "options": ["Olor a nuevo y fresco.", "Una Fragancia que elimina malos olores.", "Aroma a libertad."],
+      "productName": "Destructor de Olores Moto Bien",
+      "image": "/images/products/destructor-olores-moto.png"
+    },
+    {
+      "question": "¿Qué sensación crees que le gustaría sentir a la cadena de tu Moto?",
+      "options": ["Desempeño suave y sin ruido.", "Limpia y protegida.", "Mas velocidad al rodar."],
+      "productName": "Lubricante de cadenas urbanas Moto Bien 220 ml",
+      "image": "/images/products/lubricante-urbano-moto.png"
+    },
+    {
+      "question": "¿Qué partículas crees que a tu casco le gustaría eliminar?",
+      "options": ["Grasa y mugre del camino.", "Mosquitos y lluvia acida.", "Humo y smog del tráfico.", "Todo lo que afecta la visibilidad del visor."],
+      "productName": "Limpiador desengrasante de cascos y visores Moto Bien",
+      "image": "/images/products/limpiador-cascos-moto.png"
+    },
+    {
+      "question": "¿Qué crees que tu moto necesita para mantener su brillo y evitar la oxidación?",
+      "options": ["Una buena capa de cera protectora.", "Un buen aroma.", "Brillo total."],
+      "productName": "Cera instabrillo 220 / Moto Bien",
+      "image": "/images/products/cera-instabrillo-moto.png"
+    },
+    {
+      "question": "¿Qué productos utilizas para lubricar la cadena de tu bici?",
+      "options": ["Estoy buscando opciones.", "Con aceite de cocina, pero quiero que me recomiendes algo."],
+      "productName": "Lubricante de cadenas Ceramic Moto Bien",
+      "image": "/images/products/lubricante-ceramic-bici.png"
+    }
+  ]
+}
